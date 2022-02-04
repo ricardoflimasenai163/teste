@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TV Cultura" tvg-name="TV Cultura FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvcultura.png" group-title="Canais | Abertos",TV Cultura FHD
+http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/162747
+#EXTINF:-1 tvg-id="TV Cultura" tvg-name="TV Cultura HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvcultura.png" group-title="Canais | Abertos",TV Cultura HD
+http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/162748
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT SP FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="Canais | Abertos",SBT SP FHD
+http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/140653
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT SP HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="Canais | Abertos",SBT SP HD
+http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/83476
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="GB SP FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="Canais | Globos",GB SP FHD
+http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/83510
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="GB SP HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="Canais | Globos",GB SP HD
+http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/83461
+#EXTINF:-1 tvg-id="Record" tvg-name="Record SP FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record SP FHD
+http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/162663
+#EXTINF:-1 tvg-id="Record" tvg-name="Record SP HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record SP HD
+http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/83468
+#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/redetv.png" group-title="Canais | Abertos",Rede TV FHD
+http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/140652
+#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/redetv.png" group-title="Canais | Abertos",Rede TV HD
+http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/83253
+#EXTINF:-1 tvg-id="TV Gazeta" tvg-name="TV Gazeta FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvgazeta.png" group-title="Canais | Abertos",TV Gazeta FHD [Alt]
+http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/151034
+#EXTINF:-1 tvg-id="TV Gazeta" tvg-name="TV Gazeta HD SP [f1]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvgazeta.png" group-title="Canais | Abertos",TV Gazeta HD SP [f1]
+http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/83454
+#EXTINF:-1 tvg-id="Band (rede)" tvg-name="BAND SP FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/band.png" group-title="Canais | Abertos",BAND SP FHD
+http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/83769
+#EXTINF:-1 tvg-id="Band (rede)" tvg-name="BAND SP HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/band.png" group-title="Canais | Abertos",BAND SP HD
+http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/163037
