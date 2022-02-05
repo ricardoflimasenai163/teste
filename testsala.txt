@@ -27,3 +27,35 @@ http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/83454
 http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/83769
 #EXTINF:-1 tvg-id="Band (rede)" tvg-name="BAND SP HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/band.png" group-title="Canais | Abertos",BAND SP HD
 http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/163037
+#EXTINF:-1 tvg-id="GloboNews" tvg-name="Globo News FHD" tvg-logo="https://i.imgur.com/0MKWISq.png" group-title="Canais | Notícias",Globo News FHD
+http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/139102
+#EXTINF:-1 tvg-id="GloboNews" tvg-name="Globo News HD" tvg-logo="https://i.imgur.com/0MKWISq.png" group-title="Canais | Notícias",Globo News HD
+http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/83219
+#EXTINF:-1 tvg-id="Band News" tvg-name="BAND News FHD" tvg-logo="https://i.imgur.com/YZtFGG5.png" group-title="Canais | Notícias",BAND News FHD
+http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/139115
+#EXTINF:-1 tvg-id="Band News" tvg-name="BAND News HD" tvg-logo="https://i.imgur.com/YZtFGG5.png" group-title="Canais | Notícias",BAND News HD
+http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/83308
+#EXTINF:-1 tvg-id="Record News" tvg-name="Record News FHD" tvg-logo="https://i.imgur.com/vNlHLKc.png" group-title="Canais | Notícias",Record News FHD
+http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/139116
+#EXTINF:-1 tvg-id="Record News" tvg-name="Record News HD" tvg-logo="https://i.imgur.com/vNlHLKc.png" group-title="Canais | Notícias",Record News HD
+http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/83309
+#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil FHD" tvg-logo="https://i.imgur.com/8Jq3Q64.png" group-title="Canais | Notícias",CNN Brasil FHD
+http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/83436
+#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil HD" tvg-logo="https://i.imgur.com/8Jq3Q64.png" group-title="Canais | Notícias",CNN Brasil HD
+http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/83306
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT FHD" tvg-logo="https://i.imgur.com/mQaS7Ll.png" group-title=" Canais | Variedades",GNT FHD
+http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/139111
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT HD" tvg-logo="https://i.imgur.com/mQaS7Ll.png" group-title=" Canais | Variedades",GNT HD
+http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/83222
+#EXTINF:-1 tvg-id="Discovery Home-Health" tvg-name="Discovery Home & Health FHD" tvg-logo="https://i.imgur.com/9ot4zIs.png" group-title="Canais | Documentários",Discovery Home & Health FHD
+http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/87315
+#EXTINF:-1 tvg-id="Discovery Home-Health" tvg-name="Discovery Home & Health HD" tvg-logo="https://i.imgur.com/9ot4zIs.png" group-title="Canais | Documentários",Discovery Home & Health HD
+http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/83198
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow FHD" tvg-logo="https://i.imgur.com/txoA64j.png" group-title=" Canais | Variedades",Multishow FHD
+http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/139109
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow HD" tvg-logo="https://i.imgur.com/txoA64j.png" group-title=" Canais | Variedades",Multishow HD
+http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/83237
+#EXTINF:-1 tvg-id="Viva" tvg-name="Viva FHD" tvg-logo="https://i.imgur.com/I5wgAQZ.png" group-title=" Canais | Variedades",Viva FHD
+http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/139114
+#EXTINF:-1 tvg-id="Viva" tvg-name="Viva HD" tvg-logo="https://i.imgur.com/I5wgAQZ.png" group-title=" Canais | Variedades",Viva HD
+http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/83276
