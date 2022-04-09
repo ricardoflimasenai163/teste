@@ -29,6 +29,12 @@ http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/87315
 http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/139109
 #EXTINF:-1 tvg-id="Viva" tvg-name="Viva FHD" tvg-logo="https://i.imgur.com/I5wgAQZ.png" group-title=" Canais | Variedades",Viva FHD
 http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/139114
+#EXTINF:-1 tvg-id="bbb22" tvg-name="BBB 1 FHD" tvg-logo="https://www.ofuxico.com.br/wp-content/uploads/2021/12/bbb22.jpg" group-title="Canais l BBB",BBB 1 FHD
+http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/179431
+#EXTINF:-1 tvg-id="bbb22" tvg-name="BBB 2 FHD" tvg-logo="https://www.ofuxico.com.br/wp-content/uploads/2021/12/bbb22.jpg" group-title="Canais l BBB",BBB 2 FHD
+http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/179433
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central FHD" tvg-logo="https://i.imgur.com/z1E0ZP0.png" group-title=" Canais | Variedades",Comedy Central FHD
+http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/139107
 #EXTINF:-1 tvg-id="TV Cultura" tvg-name="TV Cultura HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvcultura.png" group-title="Canais | Abertos",TV Cultura HD
 http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/162748
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT SP HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="Canais | Abertos",SBT SP HD
