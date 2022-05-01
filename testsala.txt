@@ -1,67 +1,67 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TV Cultura" tvg-name="TV Cultura FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvcultura.png" group-title="Canais | Abertos",TV Cultura FHD
-http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/162747
+http://cdn.bgp20.xyz:80/GNc1cQ/YCp9KX/162747
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT SP FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="Canais | Abertos",SBT SP FHD
-http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/140653
+http://cdn.bgp20.xyz:80/GNc1cQ/YCp9KX/140653
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="GB SP FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="Canais | Globos",GB SP FHD
-http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/83510
+http://cdn.bgp20.xyz:80/GNc1cQ/YCp9KX/83510
 #EXTINF:-1 tvg-id="Record" tvg-name="Record SP FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record SP FHD
-http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/162663
+http://cdn.bgp20.xyz:80/GNc1cQ/YCp9KX/162663
 #EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/redetv.png" group-title="Canais | Abertos",Rede TV FHD
-http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/140652
+http://cdn.bgp20.xyz:80/GNc1cQ/YCp9KX/140652
 #EXTINF:-1 tvg-id="TV Gazeta" tvg-name="TV Gazeta FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvgazeta.png" group-title="Canais | Abertos",TV Gazeta FHD [Alt]
-http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/151034
+http://cdn.bgp20.xyz:80/GNc1cQ/YCp9KX/151034
 #EXTINF:-1 tvg-id="Band (rede)" tvg-name="BAND SP FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/band.png" group-title="Canais | Abertos",BAND SP FHD
-http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/83769
+http://cdn.bgp20.xyz:80/GNc1cQ/YCp9KX/83769
 #EXTINF:-1 tvg-id="GloboNews" tvg-name="Globo News FHD" tvg-logo="https://i.imgur.com/0MKWISq.png" group-title="Canais | Notícias",Globo News FHD
-http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/139102
+http://cdn.bgp20.xyz:80/GNc1cQ/YCp9KX/139102
 #EXTINF:-1 tvg-id="Band News" tvg-name="BAND News FHD" tvg-logo="https://i.imgur.com/YZtFGG5.png" group-title="Canais | Notícias",BAND News FHD
-http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/139115
+http://cdn.bgp20.xyz:80/GNc1cQ/YCp9KX/139115
 #EXTINF:-1 tvg-id="Record News" tvg-name="Record News FHD" tvg-logo="https://i.imgur.com/vNlHLKc.png" group-title="Canais | Notícias",Record News FHD
-http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/139116
+http://cdn.bgp20.xyz:80/GNc1cQ/YCp9KX/139116
 #EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil FHD" tvg-logo="https://i.imgur.com/8Jq3Q64.png" group-title="Canais | Notícias",CNN Brasil FHD
-http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/83436
+http://cdn.bgp20.xyz:80/GNc1cQ/YCp9KX/83436
 #EXTINF:-1 tvg-id="GNT" tvg-name="GNT FHD" tvg-logo="https://i.imgur.com/mQaS7Ll.png" group-title=" Canais | Variedades",GNT FHD
-http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/139111
+http://cdn.bgp20.xyz:80/GNc1cQ/YCp9KX/139111
 #EXTINF:-1 tvg-id="Discovery Home-Health" tvg-name="Discovery Home & Health FHD" tvg-logo="https://i.imgur.com/9ot4zIs.png" group-title="Canais | Documentários",Discovery Home & Health FHD
-http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/87315
+http://cdn.bgp20.xyz:80/GNc1cQ/YCp9KX/87315
 #EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow FHD" tvg-logo="https://i.imgur.com/txoA64j.png" group-title=" Canais | Variedades",Multishow FHD
-http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/139109
+http://cdn.bgp20.xyz:80/GNc1cQ/YCp9KX/139109
 #EXTINF:-1 tvg-id="Viva" tvg-name="Viva FHD" tvg-logo="https://i.imgur.com/I5wgAQZ.png" group-title=" Canais | Variedades",Viva FHD
-http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/139114
+http://cdn.bgp20.xyz:80/GNc1cQ/YCp9KX/139114
 #EXTINF:-1 tvg-id="bbb22" tvg-name="BBB 1 FHD" tvg-logo="https://www.ofuxico.com.br/wp-content/uploads/2021/12/bbb22.jpg" group-title="Canais l BBB",BBB 1 FHD
-http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/179431
+http://cdn.bgp20.xyz:80/GNc1cQ/YCp9KX/179431
 #EXTINF:-1 tvg-id="bbb22" tvg-name="BBB 2 FHD" tvg-logo="https://www.ofuxico.com.br/wp-content/uploads/2021/12/bbb22.jpg" group-title="Canais l BBB",BBB 2 FHD
-http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/179433
+http://cdn.bgp20.xyz:80/GNc1cQ/YCp9KX/179433
 #EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central FHD" tvg-logo="https://i.imgur.com/z1E0ZP0.png" group-title=" Canais | Variedades",Comedy Central FHD
-http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/139107
+http://cdn.bgp20.xyz:80/GNc1cQ/YCp9KX/139107
 #EXTINF:-1 tvg-id="TV Cultura" tvg-name="TV Cultura HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvcultura.png" group-title="Canais | Abertos",TV Cultura HD
-http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/162748
+http://cdn.bgp20.xyz:80/GNc1cQ/YCp9KX/162748
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT SP HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="Canais | Abertos",SBT SP HD
-http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/83476
+http://cdn.bgp20.xyz:80/GNc1cQ/YCp9KX/83476
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="GB SP HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="Canais | Globos",GB SP HD
-http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/83461
+http://cdn.bgp20.xyz:80/GNc1cQ/YCp9KX/83461
 #EXTINF:-1 tvg-id="Record" tvg-name="Record SP HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record SP HD
-http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/83468
+http://cdn.bgp20.xyz:80/GNc1cQ/YCp9KX/83468
 #EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/redetv.png" group-title="Canais | Abertos",Rede TV HD
-http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/83253
+http://cdn.bgp20.xyz:80/GNc1cQ/YCp9KX/83253
 #EXTINF:-1 tvg-id="TV Gazeta" tvg-name="TV Gazeta HD SP [f1]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvgazeta.png" group-title="Canais | Abertos",TV Gazeta HD SP [f1]
-http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/83454
+http://cdn.bgp20.xyz:80/GNc1cQ/YCp9KX/83454
 #EXTINF:-1 tvg-id="Band (rede)" tvg-name="BAND SP HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/band.png" group-title="Canais | Abertos",BAND SP HD
-http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/163037
+http://cdn.bgp20.xyz:80/GNc1cQ/YCp9KX/163037
 #EXTINF:-1 tvg-id="GloboNews" tvg-name="Globo News HD" tvg-logo="https://i.imgur.com/0MKWISq.png" group-title="Canais | Notícias",Globo News HD
-http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/83219
+http://cdn.bgp20.xyz:80/GNc1cQ/YCp9KX/83219
 #EXTINF:-1 tvg-id="Band News" tvg-name="BAND News HD" tvg-logo="https://i.imgur.com/YZtFGG5.png" group-title="Canais | Notícias",BAND News HD
-http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/83308
+http://cdn.bgp20.xyz:80/GNc1cQ/YCp9KX/83308
 #EXTINF:-1 tvg-id="Record News" tvg-name="Record News HD" tvg-logo="https://i.imgur.com/vNlHLKc.png" group-title="Canais | Notícias",Record News HD
-http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/83309
+http://cdn.bgp20.xyz:80/GNc1cQ/YCp9KX/83309
 #EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil HD" tvg-logo="https://i.imgur.com/8Jq3Q64.png" group-title="Canais | Notícias",CNN Brasil HD
-http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/83306
+http://cdn.bgp20.xyz:80/GNc1cQ/YCp9KX/83306
 #EXTINF:-1 tvg-id="GNT" tvg-name="GNT HD" tvg-logo="https://i.imgur.com/mQaS7Ll.png" group-title=" Canais | Variedades",GNT HD
-http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/83222
+http://cdn.bgp20.xyz:80/GNc1cQ/YCp9KX/83222
 #EXTINF:-1 tvg-id="Discovery Home-Health" tvg-name="Discovery Home & Health HD" tvg-logo="https://i.imgur.com/9ot4zIs.png" group-title="Canais | Documentários",Discovery Home & Health HD
-http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/83198
+http://cdn.bgp20.xyz:80/GNc1cQ/YCp9KX/83198
 #EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow HD" tvg-logo="https://i.imgur.com/txoA64j.png" group-title=" Canais | Variedades",Multishow HD
-http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/83237
+http://cdn.bgp20.xyz:80/GNc1cQ/YCp9KX/83237
 #EXTINF:-1 tvg-id="Viva" tvg-name="Viva HD" tvg-logo="https://i.imgur.com/I5wgAQZ.png" group-title=" Canais | Variedades",Viva HD
-http://cdn.bgp20.xyz:80/RYaUNK/NhPUt1/83276
+http://cdn.bgp20.xyz:80/GNc1cQ/YCp9KX/83276
